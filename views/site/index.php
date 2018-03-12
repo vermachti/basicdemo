@@ -7,7 +7,7 @@ $this->title = 'My Yii Appation';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>tadulejšns Again!, and Again!!, for the horde</h1>
+        <h1>tadulejšns</h1>
 
         <p class="lead">You have successfully created your Yii-powered application.</p>
 
