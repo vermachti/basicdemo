@@ -1,9 +1,9 @@
 # phpstorm project files
 .idea
-
+.gitignore
 # netbeans project files
 nbproject
-
+asdagagasdf
 # zend studio for eclipse project files
 .buildpath
 .project
